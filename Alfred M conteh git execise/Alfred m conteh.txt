@@ -1,0 +1,16 @@
+c:\users\Alfred contehgit ++version
+git verion 2.14.1.widows..
+c:\users\Alfred conteh>cd..
+
+c:\users>cd..
+c:\>d:
+D:\>dir compsci
+D:\>cd comsci 
+D:\compsci>dir .ssh
+D:\compsci> .ssh
+D:\compsci\.ssh>ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key(c:\users\Alfred conteh/.ssh/id_rsa): .ssh
+Enter purchase (empty for no  passphrase):
+D:\COMP SCI
+
